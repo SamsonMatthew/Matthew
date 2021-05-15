@@ -9,7 +9,7 @@
 }
 
 .download_button {
-  background-color: #008080; 
+  background: #007080; 
   border: none;
   padding: 15px 32px;
   text-align: center;
@@ -17,29 +17,21 @@
   border-radius: 40px;
 }
 
-*{
-	box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 50%;
+/*.column {
   padding: 10px;
-  height: 300px; 
 }
 
-.main_row:after {
+.main_row{
   content: "";
   display: table;
   clear: both;
-}
+}*/
 
 .Helper_Section{
 	content: "";
   	display: table;
   	clear: both;
   	margin: 10px 3px;
-	height:300px;
 }
 
 .help_column{
@@ -50,6 +42,7 @@
 		padding: 5px;
 		margin: 10px,5px;
 		font-family: Georgia;
+		font-size: 10pt;
 }
 
 .about_us{
