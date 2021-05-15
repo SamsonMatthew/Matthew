@@ -65,7 +65,7 @@
 
 @media screen and (max-width: 800px) {
   .img1 {
-    width: 100%;
+    width: 50%;
 	height:250px;
   }
 }
