@@ -1,0 +1,70 @@
+.heading{
+	border-radius: 10px;
+	background:#008080;
+	color: #ffffff;
+	font-size: 15pt;
+	padding: 2px;
+    margin: 7px 0px;
+    text-align: center;
+}
+
+.download_button {
+  background-color: #008080; 
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 30px;
+  border-radius: 40px;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; 
+}
+
+.main_row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.Helper_Section{
+	content: "";
+  	display: table;
+  	clear: both;
+  	margin: 10px 3px;
+}
+
+.help_column{
+		float: left;
+		background :#e0ebeb;
+		color: black;
+		border-radius: 15px;
+		padding: 5px;
+		margin: 10px,5px;
+		font-family: Georgia;
+}
+
+.about_us{
+		float: left;
+		background :#b3cccc;
+		color: black;
+		border-radius: 15px;
+		padding: 5px;
+		margin: 10px,5px;
+		font-family: Georgia;
+}
+
+#footer{
+	background-color:#008080;
+	border-radius: 10px;
+	color: white;
+	font-size: 15pt;
+    text-align: center;
+}
