@@ -17,6 +17,11 @@
   border-radius: 40px;
 }
 
+.download_button:hover {
+            color: #000;
+            background-color: #004e59;
+}
+
 /*.column {
   padding: 10px;
 }
@@ -66,6 +71,6 @@
 @media screen and (max-width: 800px) {
   .img1 {
     width: 55%;
-	height:170px;
+	height:199px;
   }
 }
