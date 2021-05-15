@@ -39,6 +39,7 @@
   	display: table;
   	clear: both;
   	margin: 10px 3px;
+	height:300px;
 }
 
 .help_column{
