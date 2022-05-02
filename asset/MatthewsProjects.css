@@ -9,6 +9,11 @@ html{
     font-family: 'Montserrat',sans-serif;
     scroll-behavior:smooth;
 }
+body{
+    background-image: url(./img/matthew_project_logo.png);
+    background-size: cover;
+    background-position: top left;
+}
 a{
     text-decoration: none;
 }
@@ -21,9 +26,6 @@ a{
 }
 /* Hero Scetion */
 #hero {
-    background-image: url(./img/matthew_project_logo.png);
-    background-size: cover;
-    background-position: top left;
     position: relative;
 }
 #hero::after{
